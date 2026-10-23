@@ -11,6 +11,8 @@ uma versão publicada, as alterações estão agrupadas em **Unreleased**.
 - `arquivo.txt`, contendo a mensagem `Olá Mundo!` (commit `b4342d3`).
 - `arquivo2.txt`, criado inicialmente com a mensagem `Olá Mundo!` (commit
   `b4342d3`).
+- `arquivo4.txt`, criado com a mensagem `Hello World, again, with a new doc in
+  branch3` (commit `c6f4871`).
 
 ### Alterado
 
